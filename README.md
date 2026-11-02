@@ -1,3 +1,5 @@
+# \[!\[Check](https://github.com/MaksizPro/hexlet-ci-app-edited/actions/workflows/check.yml/badge.svg)](https://github.com/MaksizPro/hexlet-ci-app-edited/actions/workflows/check.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
@@ -10,9 +12,9 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
 
-- NodeJS >= 26
-- pnpm >= 11
-- Make
+* NodeJS >= 26
+* pnpm >= 11
+* Make
 
 ## Using
 
@@ -33,8 +35,9 @@ make test
 make lint
 ```
 
----
+\---
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
+[!\[Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet\_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app).
+
