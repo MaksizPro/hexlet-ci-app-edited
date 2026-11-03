@@ -12,7 +12,5 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
-        with:
-          node-version: "24.x"
-      - run: npm i
-      - run: npm test
+      - run: npm ci
+      - uses: hexlet-components/hello-from-hexlet-action@release
